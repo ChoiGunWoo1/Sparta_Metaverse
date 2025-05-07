@@ -62,6 +62,13 @@
 + Coroutine, Animator, enum등을 활용
 
 
+### 8. 게임 종료
+
+
++ 메인 화면 zone에서 esc를 누르면 게임 종료 여부를 묻는 UI가 나옵니다.
++ 게임 종료를 누르면 게임이 종료됩니다.
++ Canvas, Appiication등을 활용
+
 
 
 
